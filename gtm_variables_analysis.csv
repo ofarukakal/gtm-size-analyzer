@@ -1,0 +1,121 @@
+sira,ad,tip,boyut_byte,parametre_sayisi,variable_id
+1,isCrossellPage,jsm,6917,1,352
+2,SS - Event Parameters - view_item & add_to_cart,gtes,2196,2,488
+3,SS - Event Parameters - purchase,gtes,2127,2,491
+4,SS - Event Parameters - view_cart,gtes,1945,2,489
+5,GA Settings,gas,1779,12,12
+6,GA4 Events,remm,1760,6,301
+7,Test-0 - Deneme Testi (Kontrol + 4 Varyasyon),remm,1411,6,537
+8,SS - Event Parameters,gtes,1270,2,482
+9,Email Hashed,jsm,1188,1,98
+10,GA4 Ecommerce Event Names,remm,1151,6,431
+11,Test-0 - Deneme Testi (Kontrol + 2 Varyasyon),remm,1136,6,535
+12,Test-0 - Deneme Testi (Kontrol + 1 Varyasyon),remm,908,6,523
+13,BS111 - Deneme Testi (Kontrol + 1 Varyasyon),remm,907,6,538
+14,purchase ürün array Variable,jsm,825,1,459
+15,gtm_exp,jsm,715,1,525
+16,float ecommerce.detail.products.0.price,jsm,629,1,494
+17,Transaction ID is in Cookie,jsm,595,1,124
+18,Criteo - Transaction Items,jsm,580,1,93
+19,Criteo - Basket Items,jsm,572,1,102
+20,totalPrice,jsm,548,1,85
+21,Facebook - Basket Items,jsm,531,1,490
+22,Purchased Product Categories - Array,jsm,479,1,45
+23,Criteo - Listing IDs,jsm,477,1,107
+24,Checkout Product Categories - Array,jsm,475,1,51
+25,Product Description,jsm,469,1,343
+26,Checkout Total Price To String,jsm,463,1,492
+27,Purchased Product Brands - Array,jsm,461,1,263
+28,Purchased Product Names - Array,jsm,455,1,43
+29,Checkout Product Names - Array,jsm,451,1,49
+30,Checkout Total Price,jsm,437,1,52
+31,Criteo - Site Type,jsm,431,1,96
+32,ecommerce.promoClick.promotions.0.position,v,427,3,425
+33,ecommerce.promoClick.promotions.0.creative,v,427,3,428
+34,ecommerce.promoView.promotions.0.creative,v,425,3,421
+35,ecommerce.promoView.promotions.0.position,v,425,3,424
+36,Login Status,jsm,423,1,122
+37,ecommerce.purchase.actionField.revenue,v,419,3,369
+38,ecommerce.promoClick.promotions.0.name,v,419,3,426
+39,ecommerce.promoView.promotions.0.name,v,417,3,423
+40,ecommerce.promoClick.promotions.0.id,v,415,3,427
+41,ecommerce.promoView.promotions.0.id,v,413,3,422
+42,ecommerce.checkout.actionField.step,v,412,3,47
+43,ecommerce.detail.products.0.price,v,409,3,364
+44,ecommerce.add.products.0.quantity,v,409,3,368
+45,ecommerce.detail.products.0.name,v,407,3,363
+46,Product Quantity - Add to Cart,v,405,3,57
+47,Product Category - Add to Cart,v,405,3,59
+48,ecommerce.detail.products.0.id,v,403,3,362
+49,ecommerce.add.products.0.price,v,403,3,367
+50,ecommerce.add.products.0.name,v,401,3,366
+51,Product Category - Product Page,v,400,3,29
+52,Product Price - Add to Cart,v,399,3,60
+53,Product ID - Product Page,v,397,3,31
+54,Product Name - Add to Cart,v,397,3,58
+55,ecommerce.add.products.0.id,v,397,3,365
+56,ecommerce.purchase.products,v,396,3,44
+57,ecommerce.checkout.products,v,396,3,50
+58,DL - ecommerce.transaction_id,v,396,3,387
+59,dlv - revenue,v,396,3,456
+60,User ID,jsm,395,1,121
+61,Product Price - Product Page,v,394,3,33
+62,Product ID - Add to Cart,v,393,3,56
+63,Product Name - Product Page,v,392,3,32
+64,Referrer - Hostname,cvt_35764800_66,391,3,67
+65,ecommerce.transaction_id,v,391,3,270
+66,Shipping,v,390,3,183
+67,Client ID,jsm,389,1,16
+68,Transaction ID,v,389,3,72
+69,Revenue,v,387,3,46
+70,ecommerce.currencyCode,v,386,3,97
+71,Coupon,v,386,3,300
+72,ecommerce.impressions,v,385,3,105
+73,gtm_ab_test_variation,v,385,3,534
+74,DL - ecommerce.shipping,v,384,3,390
+75,promotion_name,v,381,3,519
+76,Tax,v,380,3,182
+77,ecommerce.shipping,v,379,3,251
+78,nonIdleTimeElapsed,v,379,3,316
+79,creative_name,v,379,3,520
+80,creative_slot,v,379,3,521
+81,DL - ecommerce.value,v,378,3,388
+82,promotion_id,v,377,3,518
+83,ecommerce.coupon,v,375,3,252
+84,gtm_ab_test_name,v,375,3,532
+85,DL - ecommerce.tax,v,374,3,389
+86,ecommerce.items,v,373,3,247
+87,ecommerce.value,v,373,3,249
+88,Payment Method,v,369,3,18
+89,ecommerce.tax,v,369,3,250
+90,eventCategory,v,368,3,77
+91,eventAction,v,364,3,39
+92,search_click_term,jsm,364,1,446
+93,eventLabel,v,362,3,30
+94,cjs - revenue_without_tax&shipping,jsm,361,1,184
+95,Store,v,352,3,17
+96,Random Number (0-99) - General,jsm,335,1,522
+97,Cookie - Google Optimize Experiment Data,k,324,2,140
+98,nonIdleTimeElapsed - sec,jsm,322,1,317
+99,hypeTransactionIds,k,314,2,123
+100,TSOFT Login Kontrolü,k,310,2,214
+101,User-provided Data,awec,310,2,309
+102,Hype2 - Test Cookie,k,304,2,219
+103,source_medium,k,303,2,34
+104,Hype - Test Cookie,k,302,2,139
+105,utm_medium,u,299,2,64
+106,utm_source,u,299,2,65
+107,fbp,k,285,2,321
+108,fbc,k,285,2,322
+109,Window Width,jsm,281,1,533
+110,Tiktok Pixel ID - CRDFLL3C77U0HUGHO92G,c,275,1,452
+111,email,j,270,1,493
+112,Criteo - Partner ID,c,264,1,91
+113,EEC Products -> GA4 Items,cvt_35764800_298,262,1,299
+114,SS - GA4 Measurement ID - G-12345PG,c,261,1,480
+115,Facebook Pixel ID,c,249,1,504
+116,Member Info Code,j,247,1,71
+117,Measurement ID,c,243,1,441
+118,Page Type,j,233,1,13
+119,Unique Event ID,cvt_35764800_296,181,0,297
+120,Event ID,cvt_35764800_296,174,0,461
